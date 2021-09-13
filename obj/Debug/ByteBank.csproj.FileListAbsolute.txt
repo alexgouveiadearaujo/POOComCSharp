@@ -1,0 +1,7 @@
+C:\Users\alex_\OneDrive\Área de Trabalho\Avanade\Codigos\POO C# Alura\c# part3\ByteBank\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\alex_\OneDrive\Área de Trabalho\Avanade\Codigos\POO C# Alura\c# part3\ByteBank\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\alex_\OneDrive\Área de Trabalho\Avanade\Codigos\POO C# Alura\c# part3\ByteBank\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\alex_\OneDrive\Área de Trabalho\Avanade\Codigos\POO C# Alura\c# part3\ByteBank\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\Users\alex_\OneDrive\Área de Trabalho\Avanade\Codigos\POO C# Alura\c# part3\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Área de Trabalho\Avanade\Codigos\POO C# Alura\c# part3\ByteBank\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\alex_\OneDrive\Área de Trabalho\Avanade\Codigos\POO C# Alura\c# part3\ByteBank\ByteBank\obj\Debug\ByteBank.pdb
